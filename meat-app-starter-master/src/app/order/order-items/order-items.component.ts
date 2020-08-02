@@ -5,6 +5,7 @@ import { CartItem } from 'app/restaurant-detail/shopping-cart/cart-item.model';
   selector: 'mt-order-items',
   templateUrl: './order-items.component.html'
 })
+
 export class OrderItemsComponent implements OnInit {
 
   @Input() items: CartItem[]
@@ -19,14 +20,17 @@ export class OrderItemsComponent implements OnInit {
   }
 
   emitIncreaseQty(item: CartItem){
+    console.log('IncreaseQty')
     this.increaseQty.emit(item)
   }
 
   emitDecreaseQty(item: CartItem){
+    console.log('DecreaseQty')
     this.decreaseQty.emit(item)
   }
 
   emitRemove(item: CartItem){
+    console.log('Remove')
     this.remove.emit(item)
   }
 
