@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/20684484/146604723-aaebda4e-f52e-4afd-b423-0b7ef7d63030.png" width="170" align="center"><BR><BR>FL ANGULAR<BR><BR></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/20684484/146604723-aaebda4e-f52e-4afd-b423-0b7ef7d63030.png" width="170" align="center"><BR><BR>UDEMY ANGULAR<BR><BR></h1>
 
 <h4 align="center"> 
     :construction:  Projeto usado para estudo, forever em construção  :construction:
@@ -8,7 +8,7 @@
 ## 📃 Descrição do projeto
 
 <p align="justify">
- Projeto em desenvolvimento para estudo a tecnologia do framework Angular. Seguindo todos os ensinamento do curso Desenvolvedor.io e outras fontes de conhecimento.
+ Projeto em desenvolvimento para estudo a tecnologia do framework Angular. Seguindo todos os ensinamento do curso UDEMy e outras fontes de conhecimento.
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
