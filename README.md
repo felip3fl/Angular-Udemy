@@ -1,14 +1,15 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/20684484/146604723-aaebda4e-f52e-4afd-b423-0b7ef7d63030.png" width="170" align="center"><BR><BR>UDEMY ANGULAR<BR><BR></h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/20684484/146604723-aaebda4e-f52e-4afd-b423-0b7ef7d63030.png" width="170" align="center"><BR><BR>UDEMY ANGULAR<BR></p>
 
-<h4 align="center"> 
+<p align="center"> 
     :construction:  Projeto usado para estudo, forever em construção  :construction:
     <BR>
-</h4>
+</p>
 
 ## 📃 Descrição do projeto
 
 <p align="justify">
  Projeto em desenvolvimento para estudo a tecnologia do framework Angular. Seguindo todos os ensinamento do curso UDEMy e outras fontes de conhecimento.
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
