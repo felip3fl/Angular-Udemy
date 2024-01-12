@@ -7,6 +7,15 @@
 <p align="center"> 
     :construction:  Projeto usado para estudo, forever em construção  :construction:
 </p>
+<br>
+
+## 📃 Descrição do projeto
+
+<p align="justify">
+ Projeto em desenvolvimento para estudo a tecnologia do framework Angular. Seguindo todos os ensinamento do curso da Udemy e outras fontes de conhecimento.
+
+
+<BR>
 
 <BR>
 
