@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/felip3fl/UDEMY_ANGULAR/b0e4b886234f70753787d78cb23e6f56908774e0/Material/Icon/angular-icon-seeklogo.svg" width="170" align="center"></p>
-<h3 align="center">UDEMY ANGULAR</h3>
+<h3 align="center">ANGULAR (UDEMY)</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-ef249f">
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-840ef0">
